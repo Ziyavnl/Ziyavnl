@@ -21,15 +21,12 @@ I will upload these projects to my profile. I continue to improve myself in prog
 non-stocked products.
 3. I worked as a courier at Trendyol and Getir.
 
-
-
-
 ## *My Hobbies*
 * reading action books
 * spending time with my friends 
 * taking landscape photos 
 * camping 
-
+_________________________________________________________________________________________________________________
 
 ## *My Projects*
 
@@ -39,7 +36,9 @@ non-stocked products.
 * It is located in the file in the SQL table, and when you upload it to your system, all you have to do is replace the database link part with your own link
 * With the view button, it shows us all the data written in the SQL server in the dataGridView table.
 * Both price calculation and device recording are performed
+
 > You can reach this project from [HERE](https://github.com/Ziyavnl/Device-Repairman-Registration-Application)
+_________________________________________________________________________________________________________________
 
 > Hotel-Reservation-Application
 
@@ -53,6 +52,7 @@ non-stocked products.
 * All the entered data is saved in SQL server.
 
 > You can reach this project from [HERE](https://github.com/Ziyavnl/Hotel-Reservation-Application)
+_________________________________________________________________________________________________________________
 
 > ATM-Application
 
@@ -66,6 +66,7 @@ non-stocked products.
 * There is a visual login screen and current date and time in the ATM.
 
 > You can reach this project from [HERE](https://github.com/Ziyavnl/ATM-Application)
+_________________________________________________________________________________________________________________
 
 > Cisco Packet Tracer
 
